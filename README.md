@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Matheus  
 
-<!--
-**zombieful/zombieful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Também conhecido como **Zumbis**, sou desenvolvedor brasileiro com foco em criar soluções para **Minecraft** e outros projetos que envolvem **Java** e **programação backend**.  
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
+- Idade: **18 anos** (nascido em **03 de março**)  
+- Nacionalidade: **Brasileiro**  
+- Interesse principal: desenvolvimento de plugins para Minecraft  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Linguagens
+- **Java**  
+- **JavaScript**  
+- **Python**  
+
+## 📊 Estatísticas
+![Zombieful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zombieful&show_icons=true&theme=github_dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombieful&layout=compact&theme=github_dark&hide_border=true)  
+
+## 📫 Contato
+- Discord: `zumbis#0001`  
+- Email: **seu.email@exemplo.com**
