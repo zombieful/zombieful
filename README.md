@@ -17,5 +17,5 @@ Também conhecido como **Zumbis**, sou desenvolvedor brasileiro com foco em cria
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombieful&layout=compact&theme=github_dark&hide_border=true)  
 
 ## 📫 Contato
-- Discord: `zumbis#0001`  
-- Email: **seu.email@exemplo.com**
+- Discord: `zombieful`  
+- Email: **matheus@fyremc.com.br**
